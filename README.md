@@ -23,9 +23,8 @@ Email Me 👉 ✉️ **hafsanoor248906@gmail.com** For Collaboration/Project or 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hafsanoor21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+### ✍️ Quote
+"Code works. AI thinks. Automation delivers."
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hafsanoor21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
